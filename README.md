@@ -1,7 +1,8 @@
 # -EZ-Raider
 Discord Raider Token by !&lt;EZ https://discord.gg/Xu3vKQcecX
 
-<img width="1113" height="627" alt="image" src="https://github.com/user-attachments/assets/d452e0cc-f42f-4d15-86fc-8a59d13cbb2e" />
+<img width="1107" height="620" alt="image" src="https://github.com/user-attachments/assets/e54262d6-6819-46cb-8ee3-4650afe28ba8" />
+
 
 # Install
 -open setup.bat
