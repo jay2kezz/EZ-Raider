@@ -21,5 +21,5 @@ Discord Raider Token by !&lt;EZ https://discord.gg/Xu3vKQcecX
 
 and enjoy !
 
-## by !<EZ New 
+## by !<EZ | Project
 https://discord.gg/XC9YdQAUDb
